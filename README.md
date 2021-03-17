@@ -1,5 +1,5 @@
 # The Great adventure
-[image](game.png)
+![image](game.png)
 [Download](The Great Adventure.zip)
 
 
