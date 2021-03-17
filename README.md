@@ -1,3 +1,3 @@
-[Link]("The Great Adventure.zip")
+Download The Great adventure [Here](The Great Adventure.zip)
 
-[Link]("Parkour Build Test.zip")
+[Parkour Game beta](Parkour Build Test.zip)
